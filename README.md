@@ -1,4 +1,5 @@
 Instructions/Инструкция
+
 Eng:
 1. Download the archive ⬇
 2. Unzip the folder
@@ -14,7 +15,9 @@ Ru:
 
 
 file:
+
 You can leave the folder anywhere convenient on any disk and drag the file called "Калькулятор" (Калькулятор.exe) from the folder to the taskbar
 
 Файл:
+
 Вы можете оставить папку в любом удобном месте на любом диске и перетащить файл с именем "Калькулятор" (Калькулятор.exe) из этой папки на панель задач.
